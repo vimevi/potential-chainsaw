@@ -1,2 +1,2 @@
-This file was created on VS code
+This file was created in VS code
 Another feature was created -line
