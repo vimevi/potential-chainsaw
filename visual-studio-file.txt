@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 This file was created on VS code
 
 one more text on the main branch
+=======
+This file was created in VS code
+Another feature was created -line
+>>>>>>> Another-feature
