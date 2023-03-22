@@ -1,5 +1,7 @@
 File created in the main branch
 
+Created with new feature
+
 Just another feature
 
 I made changes from main branch
